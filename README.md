@@ -1,4 +1,4 @@
-# Simple-Game
-Grade 12 CS project
+# Cubed
 
-This game was based off a game I found on coolmath-games.com, called B-Cubed.
+Simple arcade-style game written in Java.
+This was based off a game I found on coolmath-games.com, called B-Cubed.
